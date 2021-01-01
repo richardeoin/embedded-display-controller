@@ -1,0 +1,15 @@
+[package]
+name = "embedded-display-controller"
+version = "0.1.0"
+authors = ["Richard Meadows <richard@richard.fish>"]
+edition = "2018"
+categories = ["embedded", "hardware-support", "no-std"]
+description = "Traits for display controllers"
+keywords = ["display", "framebuffer", "pixelbuffer"]
+repository = "https://github.com/richardeoin/embedded-display-controller"
+license = "MIT/Apache-2.0"
+readme = "README.md"
+exclude = [".gitignore", "README.tpl"]
+
+
+[dependencies]
