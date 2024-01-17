@@ -2,7 +2,7 @@
 
 ## [Unreleased]
 
-## [v0.2.0] 2024-01-xx
+## [v0.2.0] 2024-01-17
 
 * Add DSI related traits and data structures [#1]
 * Started Changelog
