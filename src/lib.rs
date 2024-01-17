@@ -35,6 +35,8 @@
 //! conditions.
 #![no_std]
 
+pub mod dsi;
+
 /// A word type for the display memory buffer
 pub trait PixelWord: Copy {}
 impl PixelWord for u8 {}
